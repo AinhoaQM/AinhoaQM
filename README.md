@@ -21,7 +21,7 @@ const ainhoa = {
 },
 ```
 
-## 🌟  Featured Projects
+## 💻 Featured Projects
 
 - **Comer Comida:** In response to the need to comply with safety measures during the pandemic and enhance service efficiency in the hospitality industry, I created a contactless menu for a fictional restaurant called "Comer Comida."
 
@@ -32,9 +32,9 @@ I would love to connect with you! You can find me on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ainhoa%20Quesada-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ainhoa-quesada-marquez-981997247/)
 [![Email](https://img.shields.io/badge/Email-ainhoaqm99%40hotmail.com-red?style=flat-square&logo=hotmail)](mailto:ainhoaqm99@hotmail.com)
 
-<br>
+## 🌟 Quote of the day
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_macchiato)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <br>
 <p align="center">🙏 <em>Thanks for visiting my profile!</em> 🙏 </p>
