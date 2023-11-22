@@ -11,13 +11,14 @@ const ainhoa = {
   role: "Web Developer",
   code: ["HTML5", "CSS3", "JavaScript", "ReactJS", "Node.js", "SQL"],
   additionalSkills: {
-    JavaScript: ["ES6+", "DOM Manipulation"]
+    JavaScript: ["ES6+", "DOM Manipulation", "JWT"]
     React: ["React Hooks", "Flux"]
     Python: ["Flask", "SQLAlchemy"]
   },
   otherSkills: ["Responsive Web Design", "Version Control (Git)", "Command Line", "RESTful APIs"],
   tools: ["Bootstrap", "MySQL", "Postgres", "Google Cloud APIs", "Firebase"],
   challenge: "To find a job",
+},
 ```
 
 ## 🌟  Featured Projects
