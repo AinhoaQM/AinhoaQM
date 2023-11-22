@@ -1,4 +1,4 @@
-# Hello👋 I'm Ainhoa! 
+![Mi Name](https://github.com/AinhoaQM/AinhoaQM/blob/main/banner.png)
 
 I'm a  Full Stack web developer. I'm passionate about creating engaging and functional web experiences. My goal is to contribute with enthusiasm and dedication to the creation of web projects, and I'm constantly excited to learn and grow in the ever-changing world of technology.
 
