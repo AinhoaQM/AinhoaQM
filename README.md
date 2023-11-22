@@ -2,7 +2,7 @@
 
 I'm a web developer passionate about creating engaging and functional web experiences. 
 
-## About Me
+## 👩‍💻About Me
 
 ```javascript
 const ainhoa = {
@@ -19,12 +19,13 @@ const ainhoa = {
   challenge: "To find a job",
 ```
 
-## Featured Projects
+## 🌟  Featured Projects
 
-- **Comer Comida:** Simulates a contactless menu for a fictional restaurant. [Check it out!](https://github.com/AinhoaQM/Comer-Comida)
+- **Comer Comida:** In response to the need to comply with safety measures during the pandemic and enhance service efficiency in the hospitality industry, I created a contactless menu for a fictional restaurant called "Comer Comida."
 
-## Contact
+## 📧 Contact
 
 I would love to connect with you! You can find me on [LinkedIn](https://www.linkedin.com/in/ainhoa-quesada-marquez-981997247/) or email me at ainhoaqm99@hotmail.com.
 
-Thanks for visiting my profile! I hope you find my projects and contributions interesting.
+
+[^1]: 🙏 Thanks for visiting my profile! 🙏
