@@ -8,7 +8,7 @@ I'm a  Full Stack web developer. I'm passionate about creating engaging and func
 ```javascript
 const ainhoa = {
   pronouns: "she" | "her",
-  role: "Web Developer",
+  role: "Web Developer Full Stack",
   code: ["HTML5", "CSS3", "JavaScript", "ReactJS", "Node.js", "SQL"],
   additionalSkills: {
     JavaScript: ["ES6+", "DOM Manipulation", "JWT"]
