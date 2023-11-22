@@ -26,7 +26,10 @@ const ainhoa = {
 
 ## 📧 Contact
 
-I would love to connect with you! You can find me on [LinkedIn](https://www.linkedin.com/in/ainhoa-quesada-marquez-981997247/) or email me at ainhoaqm99@hotmail.com.
+I would love to connect with you! You can find me on:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ainhoa%20Quesada-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ainhoa-quesada-marquez-981997247/)
+[![Email](https://img.shields.io/badge/Email-ainhoaqm99%40hotmail.com-red?style=flat-square&logo=hotmail)](mailto:ainhoaqm99@hotmail.com)
 
 
 <br>
