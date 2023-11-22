@@ -1,6 +1,6 @@
 # ¡Hola, soy [Ainhoa]! 👋
 
-¡Bienvenido a mi perfil de GitHub! Soy una desarrolladora web junior apasionada por la creación de experiencias web impactantes y funcionales. Aquí tienes un resumen rápido de mis habilidades y tecnologías con las que he trabajado:
+¡Bienvenido a mi perfil de GitHub! Soy una desarrolladora web apasionada por la creación de experiencias web armoniosas y funcionales. Aquí tienes un resumen rápido de mis habilidades y tecnologías con las que he trabajado:
 
 ## Tecnologías y Habilidades
 
@@ -18,11 +18,10 @@
 
 ## Proyectos Destacados
 
-- **Proyecto 1:** Breve descripción y enlace al repositorio.
-- **Proyecto 2:** Breve descripción y enlace al repositorio.
+- **Comer Comida** Breve descripción y enlace al repositorio.
 
 ## Contacto
 
-¡Me encantaría conectarme contigo! Puedes encontrarme en [LinkedIn](enlace a tu perfil de LinkedIn) o [Twitter](enlace a tu perfil de Twitter).
+¡Me encantaría conectarme contigo! Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/ainhoa-quesada-marquez-981997247/) o en mi correo electronico ainhoaqm99@hotmail.com
 
 ¡Gracias por visitar mi perfil! Espero que encuentres interesantes mis proyectos y contribuciones.
