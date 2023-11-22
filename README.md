@@ -1,6 +1,22 @@
-# Hello, I'm Ainhoa! 👋
+# ¡Hola, soy Ainhoa! 👋
 
-Welcome to my GitHub profile! I am a web developer passionate about creating harmonious and functional web experiences. Here's a quick overview of my skills and technologies I've worked with:
+Soy una desarrolladora web apasionada por crear experiencias web atractivas y funcionales. Actualmente, trabajo como desarrolladora junior y he tenido la oportunidad de explorar diversas tecnologías y proyectos interesantes.
+
+## Sobre Mí
+
+```javascript
+const ainhoa = {
+  pronouns: "she" | "her",
+  code: ["HTML", "CSS", "JavaScript", "Python", "React", "Node.js"],
+  tools: ["Flask", "SQLAlchemy", "Bootstrap", "Google Cloud APIs", "Firebase"],
+  architecture: ["microservices", "MVC pattern"],
+  techCommunities: {
+    organizer: "Web Dev Meetup",
+    contributor: "Open Source Enthusiast",
+  },
+  challenge: "Currently exploring the realms of React and Node.js",
+};
+
 
 ## Technologies and Skills
 
