@@ -7,11 +7,16 @@ I'm a web developer passionate about creating engaging and functional web experi
 ```javascript
 const ainhoa = {
   pronouns: "she" | "her",
-  code: ["HTML5", "CSS3", "JavaScript", "ReactJS", "Node.js", "Python"],
-  tools: ["Bootstrap", "Google Cloud APIs", "Firebase", "Flask", "Flux" ],
-  databases: ["SQL", "SQLAlchemy"],
+  role: "Web Developer",
+  code: ["HTML5", "CSS3", "JavaScript", "ReactJS", "Node.js", "SQL"],
+  additionalSkills: {
+    JavaScript: ["ES6+", "DOM Manipulation"]
+    React: ["React Hooks", "Flux"]
+    Python: ["Flask", "SQLAlchemy"]
+  },
+  otherSkills: ["Responsive Web Design", "Version Control (Git)", "Command Line", "RESTful APIs"],
+  tools: ["Bootstrap", "MySQL", "Postgres", "Google Cloud APIs", "Firebase"],
   challenge: "To find a job",
-};
 ```
 
 ## Featured Projects
