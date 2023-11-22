@@ -1,4 +1,4 @@
-# ¡Hola, soy Ainhoa! 👋
+# Hello, I'm Ainhoa! 👋
 
 I'm a web developer passionate about creating engaging and functional web experiences. 
 
