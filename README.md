@@ -1,6 +1,6 @@
 # ¡Hola, soy Ainhoa! 👋
 
-Soy una desarrolladora web apasionada por crear experiencias web atractivas y funcionales. Actualmente, trabajo como desarrolladora junior y he tenido la oportunidad de explorar diversas tecnologías y proyectos interesantes.
+I'm a web developer passionate about creating engaging and functional web experiences. 
 
 ## About Me
 
@@ -10,7 +10,7 @@ const ainhoa = {
   code: ["HTML5", "CSS3", "JavaScript", "ReactJS", "Node.js", "Python"],
   tools: ["Bootstrap", "Google Cloud APIs", "Firebase", "Flask", "Flux" ],
   databases: ["SQL", "SQLAlchemy"],
-  challenge: "Currently exploring the realms of React and Node.js",
+  challenge: "To find a job",
 };
 ```
 
