@@ -1,6 +1,6 @@
-# Hello, I'm Ainhoa! 👋
+# Hello👋 I'm Ainhoa! 
 
-I'm a web developer passionate about creating engaging and functional web experiences. 
+I'm a full stack web developer passionate about creating engaging and functional web experiences. 
 
 ## 👩‍💻About Me
 
@@ -28,4 +28,5 @@ const ainhoa = {
 I would love to connect with you! You can find me on [LinkedIn](https://www.linkedin.com/in/ainhoa-quesada-marquez-981997247/) or email me at ainhoaqm99@hotmail.com.
 
 
-[^1]: 🙏 Thanks for visiting my profile! 🙏
+<br>
+<p align="center">🙏 <em>Thanks for visiting my profile!</em> 🙏 </p>
