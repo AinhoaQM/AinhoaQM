@@ -24,7 +24,7 @@ const ainhoa = {
 
 - **Comer Comida:** In response to the need to comply with safety measures during the pandemic and enhance service efficiency in the hospitality industry, I created a contactless menu for a fictional restaurant called "Comer Comida."
 
-## 📧 Contact
+## 📧 Contact ENG/ES
 
 I would love to connect with you! You can find me on:
 
