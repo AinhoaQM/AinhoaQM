@@ -15,8 +15,8 @@ const ainhoa = {
     React: ["React Hooks", "Flux"]
     Python: ["Flask", "SQLAlchemy"]
   },
-  otherSkills: ["Responsive Web Design", "Version Control (Git)", "Command Line", "RESTful APIs"],
   tools: ["Bootstrap", "MySQL", "Postgres", "Google Cloud APIs", "Firebase"],
+  otherSkills: ["Responsive Web Design", "Version Control (Git)", "Command Line", "RESTful APIs"],
   challenge: "To find a job",
 },
 ```
