@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I am a web developer passionate about creating har
 
 ## Featured Projects
 
-- **Comer Comida:** Brief description and link to the repository.
+- **Comer Comida:** Simulates a contactless menu for a fictional restaurant. [Check it out!](link-to-your-comer-comida-repo)
 
 ## Contact
 
